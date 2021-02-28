@@ -10,6 +10,6 @@ public class Main {
         int stopnie = scanner.nextInt();
         System.out.println(" Zamieniam na Fahrenheita");
         System.out.println ( (stopnie * 1.8) + 32);
-    
+    //Norbert Kulik
     }
 }
