@@ -25,6 +25,7 @@ public class Main {
             System.out.println(" Można zrobić trójkąt");
         } else {
             System.out.println(" Nie można zrobić trójkąta");
+            //Norbert Kulik
         }
     }
 
